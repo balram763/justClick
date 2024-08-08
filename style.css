@@ -2,9 +2,27 @@
 
 *{
     font-family: "Platypi", serif;
+    
 }
 #heading{
     /* letter-spacing: 10px; */
     word-spacing: 30px;
     line-height: 45px;
+    color: rgb(0, 0, 0);
+    ;
 }
+nav{
+    background-color: #feaeda;
+}
+#heading1{
+    color: #1400ab;
+}
+#pic{
+    background-color: #181fe3;
+    color: white;
+    font-size: larger;
+    padding: 20px 0px 20px 70px;
+    border-radius: 100px;
+    width: 350px;
+}
+

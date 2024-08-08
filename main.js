@@ -13,7 +13,7 @@ const handleSubmit  = async(Api_Key) => {
 
     const responce = await fetch('https://api.remove.bg/v1.0/removebg',{
         method : 'POST',
-        headers : { "X-Api-Key": 'e89dRvzVTtuodqkit9qeK4MC' },
+        headers : { "X-Api-Key": '7pwLTep7GznBsyLQ7VCJBzz9' },
         body : formData
     })
     // const blob = responce.blob()
